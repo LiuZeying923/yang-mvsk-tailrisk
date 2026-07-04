@@ -6,7 +6,7 @@ Portfolio Optimization with Tail Risk Control & Behavioral Finance Calibration
 
 ---
 
-📌 Introduction
+📖 Introduction
 
 Markowitz gave us mean-variance optimization. But financial returns don't follow Gaussian distributions—they have fat tails and asymmetry. The 2008 crash, the COVID drop, the meme stock spikes—these are tail events that traditional optimizers simply ignore.
 
@@ -220,7 +220,7 @@ MIT
 
 ---
 
-🤝 Contributing
+🎉 Contributing
 
 Issues and pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
