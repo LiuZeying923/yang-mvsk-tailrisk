@@ -57,7 +57,7 @@ A minimal, single-page web app (vanilla JS, no build step, hand-rolled SVG chart
 | **2 · Choose stocks** | Search and pick 2–15 tickers across US, Hong Kong and A-share. Set the per-name cap, holding horizon, and offline toggle. |
 | **3 · Results** | Optimal weights (donut), Tail-Risk Guard score (gauge + findings), growth-of-100 vs an equal-weight benchmark, full performance & higher-moment stats, and stress tests. |
 
-### Screenshots
+### Screenshots Demo
 
 <p align="center">
   <img src="pho/p1.png" alt="tailrisk" width="700" />
