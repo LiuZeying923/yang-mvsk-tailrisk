@@ -59,18 +59,15 @@ A minimal, single-page web app (vanilla JS, no build step, hand-rolled SVG chart
 
 ### Screenshots
 
-**Landing — what the studio does, in one screen**
-
-![YAND-MVSK landing page — four-moment optimization, behavioral γ, and tail-risk guard](assets/screenshot-1-landing.png)
-
-**Basket builder — pick 2–15 tickers across US / HK / A-share, set caps and horizon**
-
-![Basket builder with 5 tickers selected — US BRK-B, TSLA, V and HK 9988.HK, 0700.HK, max weight per stock 55%, 1-month holding horizon, offline demo data toggle](assets/screenshot-2-basket.png)
-
-**Results — growth-of-100, performance & higher-moment stats**
-
-![Optimization results — growth of 100 chart comparing optimized (Sharpe 1.06) vs equal-weight (Sharpe 0.81) from 2023-07 to 2026-07, with performance metrics (ann. return +16.9%, vol 14.7%, Sharpe 1.06, Sortino 1.05, max drawdown -12.0%, 95% CVaR 2.02%) and higher moments (skewness +0.17, excess kurtosis +10.58, 95% VaR 1.40%, solve time 16 ms, converged yes)](assets/screenshot-3-results.png)
-
+<p align="center">
+  <img src="pho/p1" alt="tailrisk" width="200" />
+</p>
+<p align="center">
+  <img src="pho/p2" alt="tailrisk" width="200" />
+</p>
+<p align="center">
+  <img src="pho/p3" alt="tailrisk" width="200" />
+</p>
 ---
 
 ## 🐍 Python API
